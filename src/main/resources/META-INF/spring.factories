@@ -1,0 +1,4 @@
+#Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.rara.eventuate.config.EventuateCoreAutoConfiguration,\
+com.rara.eventuate.config.EventuateEventAutoConfiguration
